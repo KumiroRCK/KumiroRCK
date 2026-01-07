@@ -32,7 +32,7 @@ f.antobenedetti@tanukiverse.it
 👋 @Kumiro
 
 IT Manager @ Agedis S.r.l.  
-Infra • ERP • Data • Digital Transformation
+Infrastrutture • ERP • Data • Digital Transformation • Database DB2 IBMi
 
 Game & Narrative Designer  
 Interactive Systems • Storytelling
